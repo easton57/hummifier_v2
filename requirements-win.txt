@@ -1,0 +1,8 @@
+cycler
+jupyter
+kiwisolver
+tensorflow
+opencv-python
+wget
+matplotlib
+gin-config
