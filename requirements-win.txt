@@ -1,8 +1,11 @@
 cycler
 jupyter
 kiwisolver
-tensorflow
+tensorflow==2.13.00
 opencv-python
 wget
 matplotlib
 gin-config
+tensorflow_io
+scipy
+pandas
