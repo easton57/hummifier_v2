@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>ddfda61c-Black-chinned_Hummingbird_Archilochus_alexandri_male_Arizona_16460445202.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1430</width>
+<height>1428</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>archilochus alexandri</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>219</xmin>
+<ymin>204</ymin>
+<xmax>1317</xmax>
+<ymax>1410</ymax>
+</bndbox>
+</object>
+</annotation>

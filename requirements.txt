@@ -1,0 +1,8 @@
+cycler
+jupyter
+kiwisolver
+tensorflow==2.13.0
+opencv-python
+wget
+matplotlib
+gin-config

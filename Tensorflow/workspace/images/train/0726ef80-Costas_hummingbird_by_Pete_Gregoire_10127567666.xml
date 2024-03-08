@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>0726ef80-Costas_hummingbird_by_Pete_Gregoire_10127567666.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>640</width>
+<height>427</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>calypte costae</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>155</xmin>
+<ymin>42</ymin>
+<xmax>333</xmax>
+<ymax>392</ymax>
+</bndbox>
+</object>
+</annotation>

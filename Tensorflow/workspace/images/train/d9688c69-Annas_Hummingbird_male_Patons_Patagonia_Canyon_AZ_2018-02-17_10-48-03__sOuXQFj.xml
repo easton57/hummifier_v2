@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>d9688c69-Annas_Hummingbird_male_Patons_Patagonia_Canyon_AZ_2018-02-17_10-48-03__sOuXQFj.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>640</width>
+<height>427</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>calypte anna</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>208</xmin>
+<ymin>112</ymin>
+<xmax>531</xmax>
+<ymax>420</ymax>
+</bndbox>
+</object>
+</annotation>

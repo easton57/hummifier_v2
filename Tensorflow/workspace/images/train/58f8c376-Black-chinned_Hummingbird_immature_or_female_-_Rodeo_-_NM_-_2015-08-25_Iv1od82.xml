@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>58f8c376-Black-chinned_Hummingbird_immature_or_female_-_Rodeo_-_NM_-_2015-08-25_Iv1od82.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1024</width>
+<height>683</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>archilochus alexandri</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>197</xmin>
+<ymin>144</ymin>
+<xmax>637</xmax>
+<ymax>603</ymax>
+</bndbox>
+</object>
+</annotation>

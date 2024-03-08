@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>f60505fc-Broad-tailed_Hummingbird_Selasphorus_platycercus_male_perched_on_branch.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>640</width>
+<height>427</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>selasphorus platycercus</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>364</xmin>
+<ymin>87</ymin>
+<xmax>556</xmax>
+<ymax>370</ymax>
+</bndbox>
+</object>
+</annotation>

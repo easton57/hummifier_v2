@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>b7ba61fd-Black-chinned_hummingbird_Madera_Canyon_Incl._Santa_Rita_Lodge_4.11.22_MLp39p9.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>5568</width>
+<height>3712</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>archilochus alexandri</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>2294</xmin>
+<ymin>1095</ymin>
+<xmax>4220</xmax>
+<ymax>2525</ymax>
+</bndbox>
+</object>
+</annotation>

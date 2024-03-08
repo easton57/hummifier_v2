@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>170cf2fd-Calypte_anna_in_flight_Richmond_California_USA_16716419323.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>640</width>
+<height>427</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>calypte anna</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>179</xmin>
+<ymin>68</ymin>
+<xmax>563</xmax>
+<ymax>324</ymax>
+</bndbox>
+</object>
+</annotation>
