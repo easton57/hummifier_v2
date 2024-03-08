@@ -11,3 +11,4 @@ scipy
 pandas
 cython<3.0.0
 pycocotools
+lxml
