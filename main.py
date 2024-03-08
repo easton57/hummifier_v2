@@ -118,7 +118,7 @@ def image_infer(model_name, model_annotations, image_name):
 def video_infer(model_name, model_annotations, video_name):
 	""" Function to infer from a webcam stream """
 	# Set logging
-	logging.basicConfig(filename=f"logs/hummifier_visits_{datetime.today().strftime('%Y-%m-%d')}.log", filemode='a',
+	logging.basicConfig(filename=f"logs/hummifier_visits_{datetime.today().strftime('%Y-%m-%d')}.log", filemode='w',
 	                    level=logging.DEBUG, force=True, format='[%(asctime)s] %(name)s %(levelname)s - %(message)s')
 
 	models_dir = "Tensorflow/workspace/models/"
